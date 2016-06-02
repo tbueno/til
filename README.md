@@ -6,11 +6,16 @@
 ### Categories
 
 * [Postgres](#postgres)
+* [Ruby](#ruby)
 
 
 ### Postgres
 
 - [.psqlrc](postgres/psqlrc.md)
+
+### Ruby
+
+- [Sequel Hooks](ruby/sequel_hooks.md)
 
 
 ---
