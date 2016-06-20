@@ -5,9 +5,14 @@
 
 ### Categories
 
+* [AWS](#aws)
 * [Postgres](#postgres)
 * [Ruby](#ruby)
 
+
+### AWS
+
+- [Elastik Beanstalk intallation with pip fails on El Capitan](aws/elbcli.md)
 
 ### Postgres
 
