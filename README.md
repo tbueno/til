@@ -7,6 +7,7 @@
 
 * [AWS](#aws)
 * [Bash](#bash)
+* [Go](#go)
 * [Postgres](#postgres)
 * [Ruby](#ruby)
 
@@ -18,6 +19,11 @@
 ### Bash
 
 - [Find out the process using an specific port](bash/lsof.md)
+
+### Go
+
+- [Ranges](go/ranges.md)
+- [JSON](go/json.md)
 
 ### Postgres
 
