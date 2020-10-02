@@ -20,6 +20,10 @@
 
 - [Find out the process using an specific port](bash/lsof.md)
 
+### Git
+
+- [Remove local branches](git/remove_branches.md)
+
 ### Go
 
 - [Ranges](go/ranges.md)
